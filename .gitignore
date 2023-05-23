@@ -1,0 +1,6 @@
+vendor
+composer.json
+composer.lock
+db_connection.php
+imap_retrieve.php
+smtp_credentials.php
