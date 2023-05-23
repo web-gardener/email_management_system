@@ -8,4 +8,8 @@ A PHP-powered email management system for Outlook.com. Effortlessly receive and 
 ![image](https://github.com/ikhwanizao/email_management_system/assets/17215151/39c8ad31-7822-4b21-92cf-7bd27c0e2165)
 
 ## How to run
+run
 
+```sh
+composer require phpmailer/phpmailer
+```
