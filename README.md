@@ -5,6 +5,8 @@ A PHP-powered email management system for Outlook.com. Effortlessly receive and 
 
 ##  Screenshot
 <img src="/inbox.png">
+<img src="/sender.png">
+
 ## How to run
 1.  Import the database.
 2.  Run in terminal:
