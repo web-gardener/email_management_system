@@ -4,3 +4,4 @@ composer.lock
 db_connection.php
 imap_retrieve.php
 smtp_credentials.php
+db_connection.php
