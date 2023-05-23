@@ -1,9 +1,8 @@
-/* Reset CSS */
+
 * {
   box-sizing: border-box;
 }
 
-/* Body */
 body {
   margin: 0;
   padding: 0;
@@ -12,7 +11,6 @@ body {
   color: #fff;
 }
 
-/* Containddder */
 .container {
   max-width: 800px;
   margin: 0 auto;
@@ -22,7 +20,6 @@ body {
   clear: right;
 }
 
-/* Heading 1 */
 h1 {
   text-align: center;
   margin-bottom: 30px;
@@ -30,7 +27,6 @@ h1 {
   font-size: 36px;
 }
 
-/* Button */
 button {
   position: relative;
   display: inline-block;
@@ -47,7 +43,6 @@ button {
 }
 
 
-/* Table */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -60,30 +55,24 @@ td {
   border-bottom: 1px solid #555;
 }
 
-/* Table Header */
 th {
   background-color: #252935;
   font-weight: bold;
 }
 
-/* Table Even Row */
 tbody tr:nth-child(even) {
   background-color: #2f3642;
 }
 
-/* Media Query */
 @media only screen and (max-width: 768px) {
-  /* Heading 1 */
   h1 {
     font-size: 24px;
   }
 
-  /* Table */
   table {
     font-size: 14px;
   }
 
-  /* Table Header and Row */
   th,
   td {
     padding: 10px;
